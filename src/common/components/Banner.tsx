@@ -1,6 +1,6 @@
 import React from 'react';
 
 export const Banner: React.FC = () => {
-  return <div>Banner</div>;
+  return <div id='home' className='section'>Banner</div>;
 };
 
